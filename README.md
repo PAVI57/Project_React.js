@@ -1,3 +1,8 @@
+Login Page using React.js and Firebase:
+Embarked on a quest to build a responsive login page using HTML, CSS, JavaScript, React.js and Firebase authentication. Picture this: me, facing more bugs than a picnic in a swamp! Spent days in a debugging maze, but hey, I emerged victorious! Dive into the madness on
+Vercel : https://project-react-js-eight.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
